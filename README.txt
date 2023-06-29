@@ -1,6 +1,6 @@
 # Interactive Dashboard project
 
-## A one-day EDA & Interactive Dashboard project during my bootcamp in BigBlue
+## A one-day Exploratory Data Analysis & Interactive Dashboard project on a CO2 countries emmissions dataset
 
 Dataset link : https://www.kaggle.com/datasets/koustavghosh149/co2-emission-around-the-world
 
